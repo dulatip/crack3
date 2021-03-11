@@ -1,5 +1,7 @@
 # install
 
+pkg install git
+
 https://github.com/dulatip/crack3
 
 ls
