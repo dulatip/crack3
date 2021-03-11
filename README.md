@@ -24,18 +24,7 @@ Multi login . jadi bisa ganti akun ( selama cookies/token valid)
 
 # install
 
-$pkg install python git
-
-$git clone https://github.com/dulatip/crack3
-
-$pip install requests
-
-$pip install mechanize
-
-$pip install futures
-
-# Run SC
-
-$cd $HOME/crack3
-
-$python run.py
+https://github.com/dulatip/crack3
+ls
+cd crack3
+python crack3.py
