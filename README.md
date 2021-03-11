@@ -26,7 +26,7 @@ Multi login . jadi bisa ganti akun ( selama cookies/token valid)
 
 $pkg install python git
 
-$git clone https://github.com/RIZAL-XD/crackv3
+$git clone https://github.com/dulatip/crack3
 
 $pip install requests
 
@@ -36,6 +36,6 @@ $pip install futures
 
 # Run SC
 
-$cd $HOME/crackv3
+$cd $HOME/crack3
 
 $python run.py
