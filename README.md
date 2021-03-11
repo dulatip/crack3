@@ -5,6 +5,7 @@ pkg install git
 https://github.com/dulatip/crackv3
 
 ls
+
 cd crackv3
 
 python crackv3.py
