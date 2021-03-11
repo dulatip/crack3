@@ -2,14 +2,14 @@
 
 pkg install git
 
-https://github.com/dulatip/crack3
+https://github.com/dulatip/crackv3
 
 ls
-cd crack3
+cd crackv3
 
-python crack3.py
+python crackv3.py
 
-# crack3
+# crackv3
 
 gampang jebol sesi ( wajib s7i) klo ga jebol ya tunggu 7 hari dah gitu aja :v
 
